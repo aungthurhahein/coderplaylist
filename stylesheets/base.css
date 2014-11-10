@@ -122,7 +122,7 @@
 	img.scale-with-grid {
 		max-width: 100%;
 		height: auto; }
-	img.author{padding-left: 2em;float:right;vertical-align: middle; border-radius: 50%;}
+	img.author{float:right;vertical-align: middle; border-radius: 50%;background: #BADA55;}
 
 /* #Buttons
 ================================================== */
