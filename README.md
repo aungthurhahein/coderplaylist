@@ -1,5 +1,6 @@
 coderplaylist
 =============
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/aungthurhahein/coderplaylist?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 This project is hosted @ <a href="http://aungthurhahein.github.io/coderplaylist">coderplaylist</a>. 
 
